@@ -9,13 +9,17 @@
 			<label>Maytal Gear</label>
 			<showfiles>false</showfiles>
 			<folderitem>
-				<path>Maytal Gear\classes</path>
-				<dir>classes</dir>
-			</folderitem>
-			<folderitem>
 				<path>Maytal Gear\src</path>
 				<dir>src</dir>
 			</folderitem>
 		</project>
 	</projects>
+	<open_files>
+		<docitem>
+			<path>Maytal Gear\src\Level1.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
 </workspace_user>

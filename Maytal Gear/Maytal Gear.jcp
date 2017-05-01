@@ -30,6 +30,10 @@
 				<path>src</path>
 			</folderitem>
 			<fileitem>
+				<path>src\Level1.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
 				<path>src\Maytal_Gear.java</path>
 				<folder>src</folder>
 			</fileitem>

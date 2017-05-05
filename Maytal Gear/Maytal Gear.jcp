@@ -6,12 +6,15 @@
 		<root_path>\</root_path>
 		<output_path>classes\</output_path>
 		<source_path>src\</source_path>
-		<jdkprofile_ref/>
-		<compiler_ref/>
+		<jdkprofile_ref>JDK version 1.8.0_101</jdkprofile_ref>
+		<compiler_ref>&lt;Default&gt;</compiler_ref>
 		<ant_ref/>
 	</settings>
 	<ant_events/>
-	<run_items/>
+	<run_items>
+		<item run="Maytal_Gear"/>
+		<item run="Runner"/>
+	</run_items>
 	<runtimes>
 		<runtime>
 			<label>&lt;Default&gt;</label>
@@ -19,11 +22,13 @@
 			<applet_ref/>
 			<debugger_ref/>
 			<param/>
-			<run/>
+			<run>Runner</run>
 			<verify>true</verify>
 		</runtime>
 	</runtimes>
-	<libraries/>
+	<libraries>
+		<library_ref>mayflowerz</library_ref>
+	</libraries>
 	<files>
 		<include>
 			<folderitem>
@@ -34,7 +39,15 @@
 				<folder>src</folder>
 			</fileitem>
 			<fileitem>
-				<path>src\Maytal_Gear.java</path>
+				<path>src\OpeningScreen.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Runner.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\StartGameButton.java</path>
 				<folder>src</folder>
 			</fileitem>
 		</include>

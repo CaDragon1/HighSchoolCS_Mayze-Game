@@ -19,7 +19,25 @@
 			<path>Maytal Gear\src\Level1.java</path>
 			<source>true</source>
 			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Maytal Gear\src\OpeningScreen.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Maytal Gear\src\Runner.java</path>
+			<source>true</source>
+			<index>2</index>
 			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>Maytal Gear\src\StartGameButton.java</path>
+			<source>true</source>
+			<index>3</index>
+			<active>false</active>
 		</docitem>
 	</open_files>
 </workspace_user>

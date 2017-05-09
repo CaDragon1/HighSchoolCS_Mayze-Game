@@ -9,6 +9,8 @@ import mayflower.*;
 public class Level1 extends World{
 
     public Level1() {
+    	setBackground("img/level1.png");
+    	
     }
     @Override
     public void act(){

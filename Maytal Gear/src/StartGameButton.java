@@ -15,7 +15,7 @@ public class StartGameButton extends Actor{
     @Override
     public void act(){
     	if(Mayflower.mouseClicked(this)){
-    		Mayflower.setWorld(new Level1World());
+    		Mayflower.setWorld(new Level1());
     	}
     }
     

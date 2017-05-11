@@ -34,7 +34,7 @@ public class MrMay extends Actor
 				setLocation(x, y + 5);
     		}		/////////////////////////////movement End///////////////////////////////////////////
     		
-    	if(Mayflower.isKeyDown(Keyboard.KEY_D))////Rotation Start///////////////////////////////////////
+    	/*if(Mayflower.isKeyDown(Keyboard.KEY_D))////Rotation Start///////////////////////////////////////
     		{
 				turn(5);
     		}
@@ -42,10 +42,10 @@ public class MrMay extends Actor
     	if(Mayflower.isKeyDown(Keyboard.KEY_A))
     		{
 				turn(-5);
-    		}////Rotation End///////////////////////////////////////
+    		}////Rotation End///////////////////////////////////////*/
     		
   
-      	if(isTouching(WallActor.class))
+      	if(isTouching(Wall.class))
     	{
     		if(Mayflower.isKeyDown(Keyboard.KEY_RIGHT))///AntiMovement Start//////////////////////////////////////
     			{

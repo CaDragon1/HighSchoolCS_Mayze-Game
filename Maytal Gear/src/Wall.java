@@ -4,10 +4,12 @@ public class Wall extends Actor
 
     public Wall()
    	{
-   		setImage("img/makeshiftWall.png");	
+   		
+   		setImage("img/makeshiftWall.png");
     }
     
-    @Override public void act()
+    @Override 
+    public void act()
     {
 
     }

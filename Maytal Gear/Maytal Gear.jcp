@@ -39,7 +39,15 @@
 				<folder>src</folder>
 			</fileitem>
 			<fileitem>
+				<path>src\MrMay.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
 				<path>src\OpeningScreen.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Puzzle.java</path>
 				<folder>src</folder>
 			</fileitem>
 			<fileitem>
@@ -48,6 +56,10 @@
 			</fileitem>
 			<fileitem>
 				<path>src\StartGameButton.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Wall.java</path>
 				<folder>src</folder>
 			</fileitem>
 		</include>

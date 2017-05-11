@@ -1,6 +1,8 @@
+"C:\\Users\\s430491\\Desktop\\Mayze-Game\\Maytal Gear\\src\\AI.java"
 "C:\\Users\\s430491\\Desktop\\Mayze-Game\\Maytal Gear\\src\\Level1.java"
 "C:\\Users\\s430491\\Desktop\\Mayze-Game\\Maytal Gear\\src\\MrMay.java"
 "C:\\Users\\s430491\\Desktop\\Mayze-Game\\Maytal Gear\\src\\OpeningScreen.java"
+"C:\\Users\\s430491\\Desktop\\Mayze-Game\\Maytal Gear\\src\\Puzzle.java"
 "C:\\Users\\s430491\\Desktop\\Mayze-Game\\Maytal Gear\\src\\Runner.java"
 "C:\\Users\\s430491\\Desktop\\Mayze-Game\\Maytal Gear\\src\\StartGameButton.java"
 "C:\\Users\\s430491\\Desktop\\Mayze-Game\\Maytal Gear\\src\\Wall.java"

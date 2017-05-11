@@ -19,7 +19,7 @@
 			<path>Maytal Gear\src\Level1.java</path>
 			<source>true</source>
 			<index>0</index>
-			<active>false</active>
+			<active>true</active>
 		</docitem>
 		<docitem>
 			<path>Maytal Gear\src\OpeningScreen.java</path>
@@ -31,12 +31,30 @@
 			<path>Maytal Gear\src\Runner.java</path>
 			<source>true</source>
 			<index>2</index>
-			<active>true</active>
+			<active>false</active>
 		</docitem>
 		<docitem>
 			<path>Maytal Gear\src\StartGameButton.java</path>
 			<source>true</source>
 			<index>3</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Maytal Gear\src\Wall.java</path>
+			<source>true</source>
+			<index>4</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Maytal Gear\src\MrMay.java</path>
+			<source>true</source>
+			<index>5</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Maytal Gear\src\Puzzle.java</path>
+			<source>true</source>
+			<index>6</index>
 			<active>false</active>
 		</docitem>
 	</open_files>

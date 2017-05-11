@@ -35,7 +35,19 @@
 				<path>src</path>
 			</folderitem>
 			<fileitem>
+				<path>src\AI.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\AStar.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
 				<path>src\CookieActor.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Level1.java</path>
 				<folder>src</folder>
 			</fileitem>
 			<fileitem>
@@ -55,6 +67,10 @@
 				<folder>src</folder>
 			</fileitem>
 			<fileitem>
+				<path>src\Puzzle.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
 				<path>src\Runner.java</path>
 				<folder>src</folder>
 			</fileitem>
@@ -64,6 +80,10 @@
 			</fileitem>
 			<fileitem>
 				<path>src\StartGameButton.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\TeacherEnemy.java</path>
 				<folder>src</folder>
 			</fileitem>
 			<fileitem>

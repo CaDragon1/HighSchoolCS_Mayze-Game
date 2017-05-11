@@ -61,7 +61,7 @@
 			<path>Maytal Gear\src\MrMay.java</path>
 			<source>true</source>
 			<index>7</index>
-			<active>true</active>
+			<active>false</active>
 		</docitem>
 		<docitem>
 			<path>Maytal Gear\src\ScoreLabel.java</path>
@@ -73,6 +73,18 @@
 			<path>Maytal Gear\src\PhysObject.java</path>
 			<source>true</source>
 			<index>9</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Maytal Gear\src\AI.java</path>
+			<source>true</source>
+			<index>10</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>Maytal Gear\src\TeacherEnemy.java</path>
+			<source>true</source>
+			<index>11</index>
 			<active>false</active>
 		</docitem>
 	</open_files>

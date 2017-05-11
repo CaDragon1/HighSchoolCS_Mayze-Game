@@ -1,4 +1,5 @@
 "C:\\Users\\s581300\\Desktop\\Mayze-Game\\Maytal Gear\\src\\AI.java"
+"C:\\Users\\s581300\\Desktop\\Mayze-Game\\Maytal Gear\\src\\AStar.java"
 "C:\\Users\\s581300\\Desktop\\Mayze-Game\\Maytal Gear\\src\\CookieActor.java"
 "C:\\Users\\s581300\\Desktop\\Mayze-Game\\Maytal Gear\\src\\Level1.java"
 "C:\\Users\\s581300\\Desktop\\Mayze-Game\\Maytal Gear\\src\\Level1World.java"

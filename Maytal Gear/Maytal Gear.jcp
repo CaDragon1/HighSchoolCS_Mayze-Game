@@ -6,7 +6,7 @@
 		<root_path>\</root_path>
 		<output_path>classes\</output_path>
 		<source_path>src\</source_path>
-		<jdkprofile_ref>JDK version 1.8.0_101</jdkprofile_ref>
+		<jdkprofile_ref>JDK version 1.8.0_25</jdkprofile_ref>
 		<compiler_ref>&lt;Default&gt;</compiler_ref>
 		<ant_ref/>
 	</settings>
@@ -27,7 +27,7 @@
 		</runtime>
 	</runtimes>
 	<libraries>
-		<library_ref>mayflowerz</library_ref>
+		<library_ref>mafelr</library_ref>
 	</libraries>
 	<files>
 		<include>
@@ -35,7 +35,15 @@
 				<path>src</path>
 			</folderitem>
 			<fileitem>
-				<path>src\Level1.java</path>
+				<path>src\CookieActor.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Level1World.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\MrMay.java</path>
 				<folder>src</folder>
 			</fileitem>
 			<fileitem>
@@ -43,11 +51,27 @@
 				<folder>src</folder>
 			</fileitem>
 			<fileitem>
+				<path>src\PhysObject.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
 				<path>src\Runner.java</path>
 				<folder>src</folder>
 			</fileitem>
 			<fileitem>
+				<path>src\ScoreLabel.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
 				<path>src\StartGameButton.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Wall.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\WallActor.java</path>
 				<folder>src</folder>
 			</fileitem>
 		</include>

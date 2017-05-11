@@ -16,27 +16,63 @@
 	</projects>
 	<open_files>
 		<docitem>
-			<path>Maytal Gear\src\Level1.java</path>
+			<path>Maytal Gear\src\OpeningScreen.java</path>
 			<source>true</source>
 			<index>0</index>
 			<active>false</active>
 		</docitem>
 		<docitem>
-			<path>Maytal Gear\src\OpeningScreen.java</path>
+			<path>Maytal Gear\src\Runner.java</path>
 			<source>true</source>
 			<index>1</index>
 			<active>false</active>
 		</docitem>
 		<docitem>
-			<path>Maytal Gear\src\Runner.java</path>
+			<path>Maytal Gear\src\StartGameButton.java</path>
 			<source>true</source>
 			<index>2</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Maytal Gear\src\Wall.java</path>
+			<source>true</source>
+			<index>3</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Maytal Gear\src\WallActor.java</path>
+			<source>true</source>
+			<index>4</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Maytal Gear\src\CookieActor.java</path>
+			<source>true</source>
+			<index>5</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Maytal Gear\src\Level1World.java</path>
+			<source>true</source>
+			<index>6</index>
 			<active>true</active>
 		</docitem>
 		<docitem>
-			<path>Maytal Gear\src\StartGameButton.java</path>
+			<path>Maytal Gear\src\MrMay.java</path>
 			<source>true</source>
-			<index>3</index>
+			<index>7</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Maytal Gear\src\ScoreLabel.java</path>
+			<source>true</source>
+			<index>8</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Maytal Gear\src\PhysObject.java</path>
+			<source>true</source>
+			<index>9</index>
 			<active>false</active>
 		</docitem>
 	</open_files>

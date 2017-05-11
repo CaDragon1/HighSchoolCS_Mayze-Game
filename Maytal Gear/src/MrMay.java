@@ -4,7 +4,7 @@ public class MrMay extends Actor
  	
     public MrMay()
     {
-    	setImage("img/mrmay.png");
+    	setImage("img/robot.png");
     }
     
     @Override public void act()

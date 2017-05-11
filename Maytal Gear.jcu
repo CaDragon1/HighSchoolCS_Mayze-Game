@@ -55,13 +55,13 @@
 			<path>Maytal Gear\src\Level1World.java</path>
 			<source>true</source>
 			<index>6</index>
-			<active>true</active>
+			<active>false</active>
 		</docitem>
 		<docitem>
 			<path>Maytal Gear\src\MrMay.java</path>
 			<source>true</source>
 			<index>7</index>
-			<active>false</active>
+			<active>true</active>
 		</docitem>
 		<docitem>
 			<path>Maytal Gear\src\ScoreLabel.java</path>

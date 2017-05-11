@@ -45,7 +45,7 @@ public class MrMay extends Actor
     		}////Rotation End///////////////////////////////////////
     		
   
-      	if(isTouching(Wall.class))
+      	if(isTouching(WallActor.class))
     	{
     		if(Mayflower.isKeyDown(Keyboard.KEY_RIGHT))///AntiMovement Start//////////////////////////////////////
     			{

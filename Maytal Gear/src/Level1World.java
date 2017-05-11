@@ -6,6 +6,7 @@ public class Level1World extends World
     public Level1World() 
     {
     	setBackground("img/bg_space.png");
+    	setPaintOrder(CookieActor.class, MrMay.class);
     	MrMay may = new MrMay();
     	addObject(may,400,300);
     	
@@ -15,7 +16,7 @@ public class Level1World extends World
     	WallActor wall = new WallActor();
     	addObject(wall,400,300);
     	
-    	setPaintOrder(CookieActor.class, MrMay.class);
+    	
     }
   	 	@Override
     	public void act()
